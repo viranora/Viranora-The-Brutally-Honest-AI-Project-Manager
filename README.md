@@ -1,11 +1,5 @@
 # The Brutally Honest AI Project Manager
 
-> **"Bahaneleri bırak. Gerçeklerle yüzleş. Harekete geç."**
-
-Viranora, minimalist tasarımın nostaljiyle buluştuğu, yapay zeka destekli bir stratejik yönetim aracıdır. Sıradan proje yönetim araçlarının aksine, Viranora size nazik davranmaz. Görevlerinizi analiz eder, mantık hatalarınızı yüzünüze vurur ve sizi daha dürüst bir çalışma disiplinine zorlar.
-
----
-
 ## 🇹🇷 Proje Özeti (Turkish)
 
 Viranora, modern yazılım dünyasının "uysal" araçlarına bir başkaldırıdır. Groq Cloud (Llama 3.3) altyapısını kullanarak görev listenizi bir aynaya dönüştürür.
